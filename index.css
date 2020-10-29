@@ -1,0 +1,32 @@
+body {
+    background-color: orange;
+}
+header{
+    background-color: orangered;
+    height: 300px;
+}
+nav{
+    background-color: blue;
+    height:90px ;
+}
+aside{
+    background-color: pink;
+    height: 200px;
+}
+section {
+    background-color: yellow;
+    display :flex;
+    justify-content: space-around;
+}
+
+article {
+    background-color: green;
+    width: 250px; 
+    height:250px;
+    margin: 10px;
+}
+
+footer{
+    background-color: gray;
+    height: 300px;
+}
